@@ -5,6 +5,8 @@
 _How are _
 ~~Moinuddin~~
 ~~Hello HOw are you ~~
-** Moinuddin _how are you_ **
-*** Bold and Italic***
+**Moinuddin _how are you_**
+***Bold and Italic***
+> Hello
+
 
