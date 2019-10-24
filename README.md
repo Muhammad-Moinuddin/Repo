@@ -17,5 +17,8 @@ git status
 ggjgj
 ```
 Hello this is my site [Google] (https://google.com)
+There are two types of version control:
+-CVCS
+-DVCS
 
 
